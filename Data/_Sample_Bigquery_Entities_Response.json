@@ -1,0 +1,54 @@
+{'id': 'unravel-bigquery-flat-rate-dev-US-054154f7-c636-48fb-9909-e9180184da95',
+	'kind': 'BIGQUERY',
+	'insightsV2': [{
+		'key': 'Bottlenecks',
+		'categories': {
+			'Slow SQL Stage': {
+				'instances': [{
+					'key': 'Bottlenecks',
+					'subcategory': 'Query unravel-bigquery-flat-rate-dev-US-054154f7-c636-48fb-9909-e9180184da95',
+					'title': 'Slow SQL Stage',
+					'events': 'words',
+					'actions': '',
+					'type': 'BTL',
+					'impact': 82
+				}, {
+					'key': 'Bottlenecks',
+					'subcategory': 'Query unravel-bigquery-flat-rate-dev-US-054154f7-c636-48fb-9909-e9180184da95',
+					'title': 'Slow SQL Stage',
+					'events': 'asdfasdf',
+					'actions': '',
+					'type': 'BTL',
+					'impact': 53
+				}, {
+					'key': 'Bottlenecks',
+					'subcategory': 'Query unravel-bigquery-flat-rate-dev-US-054154f7-c636-48fb-9909-e9180184da95',
+					'title': 'Slow SQL Stage',
+					'events': 'asdv',
+					'actions': '',
+					'type': 'BTL',
+					'impact': 44
+				}, {
+					'key': 'Bottlenecks',
+					'subcategory': 'Query unravel-bigquery-flat-rate-dev-US-054154f7-c636-48fb-9909-e9180184da95',
+					'title': 'Slow SQL Stage',
+					'events': 'vadadvasdv',
+					'actions': '',
+					'type': 'BTL',
+					'impact': 22
+				}, {
+					'key': 'Bottlenecks',
+					'subcategory': 'Query unravel-bigquery-flat-rate-dev-US-054154f7-c636-48fb-9909-e9180184da95',
+					'title': 'Slow SQL Stage',
+					'events': 'asdfas',
+					'actions': '',
+					'type': 'BTL',
+					'impact': 20
+				}],
+				'impact': 82,
+				'numQueries': 1
+			}
+		}
+	}]
+}
+
